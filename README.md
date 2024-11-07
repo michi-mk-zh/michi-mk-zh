@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <hr>
 Student at KSH with a dream to program funny stuff
 <hr>
-* 🌍  I'm based in Switzerland
-* ✉️  You can contact me at [stefanoski2007@gmail.com](mailto:stefanoski2007@gmail.com)
-* 🧠  I'm learning JavaScript and Python
+* 🌍  I'm based in Switzerland<br>
+* ✉️  You can contact me at [stefanoski2007@gmail.com](mailto:stefanoski2007@gmail.com)<br>
+* 🧠  I'm learning JavaScript and Python<br>
 
 ### Skills
 
