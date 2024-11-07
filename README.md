@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michi=============================================================================================================================Student at KSH with a dream to program funny stuff--------------------------------------------------* 🌍  I'm based in Switzerland* ✉️  You can contact me at [stefanoski2007@gmail.com](mailto:stefanoski2007@gmail.com)* 🧠  I'm learning JavaScript and Python
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michi
+<hr>
+Student at KSH with a dream to program funny stuff--------------------------------------------------* 🌍  I'm based in Switzerland* ✉️  You can contact me at [stefanoski2007@gmail.com](mailto:stefanoski2007@gmail.com)* 🧠  I'm learning JavaScript and Python
 
 ### Skills
 
